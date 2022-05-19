@@ -1,6 +1,6 @@
 ### Olá Mundo! Eu sou Letícia Paoleschi 👋
 
-- 🔭 Hoje estou em busca de uma oportunidade de emprego, sou desenvolvedora Java Web fullstack
+- 🔭 Seja bem vinde! Sou desenvolvedora Java Web fullstack
 - 🌱 Possuo conhecimentos em git & GitHub | MySQL | Spring Boot | APIs | Angular
 - 💬 Sou uma pessoa curiosa e gosto de aprender novas tecnologias 
 
